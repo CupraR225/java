@@ -1,0 +1,10 @@
+4;null
+4;aara
+3;Maciej
+2;maciek
+2;malysz
+2;siemka
+1;tadi
+1;maciek
+1;wandzia
+1;sss
